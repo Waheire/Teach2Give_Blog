@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zd0Wv7Kp30ZPnctYSdDUdl/XWzUCYTJGk4rZliyl5CW1abVhwpuyZWsTXiT/FxBvwufg2Vl7wBEZ/pC/W+AKhg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Cohort Exercises\\T2G_Blog\\T2G_Blog\\T2G_Blog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\brown\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
